@@ -175,7 +175,7 @@ pd.DataFrame(dataset["test"]).to_csv("imdb_raw_test.csv", index=False)
 
 ### 📌 **Perbandingan Akurasi**
 
-![Accuracy Comparison](Result/accuracy_comparison.png)
+![Accuracy Comparison](Result/Comparison Results/comparison_results.png)
 
 ### 📌 **Confusion Matrix Tiap Model**
 
